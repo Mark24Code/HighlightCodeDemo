@@ -1,2 +1,0 @@
-# HighlightCodeDemo
-Created with CodeSandbox

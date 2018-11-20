@@ -1,0 +1,43 @@
+.subject {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px 0;
+  color: rgba(0, 0, 0, 0.65);
+}
+.code-cont {
+  margin: 20px auto;
+  padding: 5px;
+  border: 1px dashed #a9a9a9a6;
+}
+
+.no-code {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 40px 10px;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.theme-label {
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.theme-radio-group {
+  margin: 10px;
+}
+
+.theme-radio-group .theme-radio {
+  border: 0px;
+}
+.theme-radio-group .monokai-sublime {
+  background-color: #23241f;
+  color: #f92672;
+}
+.theme-radio-group .solarized-light {
+  background-color: #fdf6e3;
+  color: #c78f00;
+}
+.theme-radio-group .solarized-dark {
+  background-color: #002b36;
+  color: #2aa198;
+}

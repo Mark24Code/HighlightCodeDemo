@@ -1,0 +1,25 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "AntD+Highlight.js",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "3.10.8",
+    "autolinker": "1.8.1",
+    "highlight.js": "^9.12.0",
+    "lodash": "4.17.11",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-highlight": "0.11.1",
+    "react-scripts": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
